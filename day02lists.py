@@ -1,0 +1,11 @@
+list_var = ['Some string', 123,'234'];
+print(list_var);
+list_var.append("another");
+print(list_var);
+c = list_var[1] + 6;
+print(c);
+print(len(list_var));
+abc = [1,2,3,5];
+print(abc);
+abc.pop(0);
+print(abc);

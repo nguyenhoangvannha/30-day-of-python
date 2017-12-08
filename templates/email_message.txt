@@ -1,0 +1,6 @@
+Hi %s! 
+		Thank you for the purchase on %s. 
+		We hope you are exicted about using it. Just as a
+		reminder the purcase total was $%0.2f.
+		Have a great one!
+		Team CFE
